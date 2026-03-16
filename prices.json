@@ -4,7 +4,7 @@
   "services": [
     {"id": "svc1", "title": "Corte Tradicional", "price": 30.0, "duration": 30},
     {"id": "svc2", "title": "Barba",              "price": 20.0, "duration": 20},
-    {"id": "svc3", "title": "Corte + Barba",      "price": 45.0, "duration": 50},
+    {"id": "svc3", "title": "Corte + Barba",      "price": 22.0, "duration": 50},
     {"id": "svc4", "title": "Máquina Zero",        "price": 25.0, "duration": 20},
     {"id": "svc5", "title": "Degradê",             "price": 35.0, "duration": 35},
     {"id": "svc6", "title": "Sobrancelha",         "price": 10.0, "duration": 10}
