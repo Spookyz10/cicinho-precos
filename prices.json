@@ -4,54 +4,32 @@
   "services": [
     {
       "id": "svc3",
-      "title": "Corte + Barba",
-      "price": 22.0,
+      "title": "Corte",
+      "price": 15.0,
       "duration": 50
     },
     {
       "id": "svc4",
-      "title": "Máquina Zero",
-      "price": 25.0,
-      "duration": 20
-    },
-    {
-      "id": "svc5",
-      "title": "Degradê",
-      "price": 35.0,
-      "duration": 35
-    },
-    {
-      "id": "svc6",
-      "title": "Sobrancelha",
+      "title": "Barba",
       "price": 10.0,
-      "duration": 10
+      "duration": 20
     }
   ],
   "products": [
     {
       "id": "prd1",
       "title": "Docinho",
-      "price": 10.0
+      "price": 3.0
     },
     {
       "id": "prd2",
       "title": "Refrigerante",
-      "price": 5.0
-    },
-    {
-      "id": "prd3",
-      "title": "Salgado",
-      "price": 6.0
+      "price": 3.0
     },
     {
       "id": "prd4",
       "title": "Água",
       "price": 2.0
-    },
-    {
-      "id": "prd1773707169467",
-      "title": "Torta",
-      "price": 10.0
     }
   ]
 }
