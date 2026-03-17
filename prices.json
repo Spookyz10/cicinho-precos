@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-16",
+  "lastUpdated": "2026-03-17",
   "services": [
     {
       "id": "svc3",
@@ -13,6 +13,12 @@
       "title": "Barba",
       "price": 10.0,
       "duration": 20
+    },
+    {
+      "id": "svc1773718430039",
+      "title": "Especial",
+      "price": 10.0,
+      "duration": 30
     }
   ],
   "products": [
@@ -30,6 +36,11 @@
       "id": "prd4",
       "title": "Água",
       "price": 2.0
+    },
+    {
+      "id": "prd1773718441915",
+      "title": "Torta",
+      "price": 5.0
     }
   ]
 }
