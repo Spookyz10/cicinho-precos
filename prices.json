@@ -3,12 +3,6 @@
   "lastUpdated": "2026-03-16",
   "services": [
     {
-      "id": "svc1",
-      "title": "Corte Tradicional",
-      "price": 20.5,
-      "duration": 30
-    },
-    {
       "id": "svc2",
       "title": "Barba",
       "price": 20.0,
