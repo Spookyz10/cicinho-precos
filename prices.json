@@ -3,12 +3,6 @@
   "lastUpdated": "2026-03-16",
   "services": [
     {
-      "id": "svc2",
-      "title": "Barba",
-      "price": 20.0,
-      "duration": 20
-    },
-    {
       "id": "svc3",
       "title": "Corte + Barba",
       "price": 22.0,
